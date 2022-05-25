@@ -1,8 +1,8 @@
 # DoctorCare
 
-Projeto desenvolvido no **NLW Return** trilha **Origin** da [RocketSeat](https://www.rocketseat.com.br/).
+Projeto desenvolvido no **NLW Return** trilha **Origin** da <a href="https://www.rocketseat.com.br/" target="_blank">RockeatSeat</a>.
 
-Projeto: <https://ranierroot.github.io/doctorcare/>
+Projeto: <a href="https://ranierroot.github.io/doctorcare/" target="_blank">DoctorCare</a>
 
 ## Tecnologias
 - HTML
