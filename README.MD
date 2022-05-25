@@ -4,6 +4,8 @@ Projeto desenvolvido no **NLW Return** trilha **Origin** da <a href="https://www
 
 Projeto: <a href="https://ranierroot.github.io/doctorcare/" target="_blank">DoctorCare</a>
 
+[DoctorCare](https://ranierroot.github.io/doctorcare/){target="_blank"}
+
 ## Tecnologias
 - HTML
 - CSS
